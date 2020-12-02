@@ -10,7 +10,7 @@ public enum SupportHiveDataType {
 
     TIMESTAMP,
     DATE,
-
+    DECIMAL,
     STRING,
     VARCHAR,
     CHAR,
